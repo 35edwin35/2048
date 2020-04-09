@@ -40,7 +40,7 @@ class Tile {
       }
       textAlign(CENTER, CENTER);
       textSize(50);
-      text(value = 0, pixelPos.x+100, pixelPos.y+100);
+      text(value = 2, pixelPos.x+100, pixelPos.y+100);
     }
   }
 
